@@ -1,0 +1,16 @@
+{
+  "name": "downloader",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^16.5.1",
+    "node-fetch": "^2.6.1"
+  }
+}
